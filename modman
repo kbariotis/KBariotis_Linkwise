@@ -1,0 +1,5 @@
+src                      app/code/community/KBariotis/Linkwise/
+template                 app/design/frontend/base/default/template/linkwise/
+layout/linkwise.xml      app/design/frontend/base/default/layout/linkwise.xml
+src                      app/code/community/KBariotis/Linkwise/
+KBariotis_Linkwise.xml   app/etc/modules/KBariotis_Linkwise.xml
