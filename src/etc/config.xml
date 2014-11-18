@@ -6,15 +6,6 @@
         </KBariotis_Linkwise>
     </modules>
     <frontend>
-        <routers>
-            <linkwise>
-                <use>standard</use>
-                <args>
-                    <module>KBariotis_Linkwise</module>
-                    <frontName>linkwise</frontName>
-                </args>
-            </linkwise>
-        </routers>
         <layout>
             <updates>
                 <linkwise>
