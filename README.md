@@ -1,3 +1,5 @@
+*THIS PLUGING IS OUTDATED AND WON'T WORK WITH THE LATEST LINKWISE API.*
+
 Magento + Linkwise
 =====================
 Integrate your magento store with [Linkwise](http://linkwi.se/)
